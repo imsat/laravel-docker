@@ -1,0 +1,17 @@
+{
+   "posts":[
+      {
+         "title":"Alt My Cool Post",
+         "author":"Satyajit M"
+      },
+      {
+         "title":"Alt Another Cool Post",
+         "author":"Satyajit M"
+      }
+   ],
+   "profile":{
+      "first_name":"Satyajit",
+      "last_name":"M",
+      "email":"sm@mail.com"
+   }
+}
