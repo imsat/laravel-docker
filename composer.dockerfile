@@ -5,3 +5,4 @@ ENV COMPOSERGROUP=larvel
 
 
 RUN adduser -g ${COMPOSERGROUP} -s /bin/sh -D ${COMPOSERUSER}
+
